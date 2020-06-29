@@ -1,4 +1,4 @@
 # Flappy bird
 
-Jeu Flappy Bird réalisé avec Pygame
+Jeu **Flappy bird** réalisé avec Pygame
 
